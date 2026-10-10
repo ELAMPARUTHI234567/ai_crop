@@ -1,0 +1,30 @@
+# Node modules
+frontend/node_modules/
+frontend/dist/
+frontend/.npm/
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.pytest_cache/
+
+# Environment Variables
+.env
+.env.local
+frontend/.env
+backend/.env
+
+# MacOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Database & Models
+backend/cropdoc.db
+backend/uploads/
+data/*.pth
+data/*.pt
+data/*.onnx
