@@ -42,5 +42,4 @@ npm run dev
 
 For full deployment instructions (Vercel + Render + Models), read [DEPLOYMENT.md](DEPLOYMENT.md).
 
-## 🛡️ License
 MIT License.
